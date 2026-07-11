@@ -1,0 +1,6 @@
+claim_type,required_documents,processing_time
+Health Insurance,Claim Form; Hospital Bills; Discharge Summary; Prescriptions,7-15 Working Days
+Motor Insurance,Claim Form; RC; Driving License; Repair Estimate,5-15 Working Days
+Life Insurance,Claim Form; Death Certificate; Policy Copy,10-20 Working Days
+Travel Insurance,Tickets; Passport Copy; Expense Bills,7-15 Working Days
+Property Insurance,Claim Form; Damage Assessment Report; Photos,10-30 Working Days
