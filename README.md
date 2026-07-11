@@ -5,7 +5,7 @@ A LangChain-based AI assistant for insurance claim processing with a tool-callin
 ## Tech Stack
 
 - **LLM**: GPT-4o-mini (OpenAI)
-- **Embeddings**: text-embedding-3-small (OpenAI)
+- **Embeddings**: text-embedding-3-small (OpenAI) or HuggingFace (configurable)
 - **Reranker**: cross-encoder/ms-marco-MiniLM-L-6-v2
 - **Vector Store**: ChromaDB
 - **Cache/Memory**: Redis (Upstash)

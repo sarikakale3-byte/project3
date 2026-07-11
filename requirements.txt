@@ -18,6 +18,7 @@ chromadb
 langchain-chroma
 faiss-cpu
 rank-bm25
+langchain-huggingface
 sentence-transformers
 
 pypdf
